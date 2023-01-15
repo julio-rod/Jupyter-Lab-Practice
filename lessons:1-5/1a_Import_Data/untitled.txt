@@ -1,0 +1,3 @@
+#NOTES:
+
+You can view the last five lines of the DataFrame by using a function called tail. This function works just like head, but you get the last five rows of data instead of the first five. Although you can use either function to quickly check whether Pandas properly imported your data, the tail function lets you know by the index values just how many rows of code your DataFrame includes.
